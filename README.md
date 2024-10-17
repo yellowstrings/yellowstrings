@@ -17,7 +17,14 @@
 
 ## My Skills
 
+
+
 ## Let's Talk Numbers
+
+![Anisah's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellowstrings&show_icons=true&theme=rose&rank_icon=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yellowstrings&theme=rose)](https://github.com/yellowstrings/github-readme-stats)
+
+
 <!--
 **yellowstrings/yellowstrings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
