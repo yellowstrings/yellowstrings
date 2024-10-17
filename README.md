@@ -19,13 +19,22 @@
     </a>
 </p>
 
-## Tech Stack
+## Tech
 
 **Front End:** JavaScript, Typescript, React, Expo, Redux, Zustand, CSS, HTML5, Tailwind, Next.js <br />
 **Back End:** Node.js, SQL, MongoDB, AWS:EC2. AWS Lambda, AWS DocumentDB, AWS DynamoDB, AWS S3 <br />
 **Mobile:** React Native, Swift, XCode <br />
 **Testing:** Jest <br />
 **Developer Tools:** Git, Docker, Azure DevOps, Jira
+
+## Projects
+
+<p align="center" width="100%">
+    <img src="https://github.com/user-attachments/assets/7be8a461-d053-4e08-b833-5b005a9ca2b3" alt="Landing Page" width=600>
+    <img src="https://github.com/user-attachments/assets/79e5c21b-41a1-41e0-96ee-947d34f8730f" alt="Music Embeds"  width=600>
+</p>
+
+The project shown above can be found [here!](https://www.earthtonesmusic.us/) This is a website that I designed and created using Next.js & React and deployed using Vercel. I had a very specific image in mind for what my music website would look like, so I decided to create it by myself!
 
 ## Let's Talk Numbers
 
