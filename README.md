@@ -1,4 +1,14 @@
 ## Hi there 👋
+<p align="center" width="100%">
+    <img src="https://github.com/user-attachments/assets/2e9a11af-f699-4645-a252-f21ca4c108d1" width=400> 
+</p>
+
+<a href="https://www.linkedin.com/in/yellowstrings">
+  <img src="https://github.com/user-attachments/assets/9c6d281d-eb5e-470f-ac82-b88762b0759e" alt="LinkedIn" width="100" height="100" />
+</a>
+<a href="mailto:anisahmajeed4@gmail.com">
+  <img src="https://github.com/user-attachments/assets/c1490b92-a1d6-4f4d-bcad-d0144633ce56" alt="Gmail" width="100" height="100" />
+</a>
 
 <!--
 **yellowstrings/yellowstrings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
