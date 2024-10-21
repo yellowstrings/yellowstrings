@@ -45,6 +45,7 @@ The project shown above can be found [here!](https://www.earthtonesmusic.us/) Th
 - [Character Icon](https://picrew.me/en/image_maker/41329) <br />
 - [Logos](https://icons8.com/icons) <br />
 - [Stats](https://github.com/anuraghazra/github-readme-stats) <br />
+- [Create Gifs using Canva](https://www.canva.com/) <br />
 
 <!--
 **yellowstrings/yellowstrings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
