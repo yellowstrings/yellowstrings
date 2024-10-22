@@ -30,8 +30,8 @@
 ## Projects
 
 <p align="center" width="100%">
-    <img src="https://github.com/user-attachments/assets/7be8a461-d053-4e08-b833-5b005a9ca2b3" alt="Landing Page" width=600>
-    <img src="https://github.com/user-attachments/assets/79e5c21b-41a1-41e0-96ee-947d34f8730f" alt="Music Embeds"  width=600>
+    <img src="https://github.com/user-attachments/assets/8ccf36fc-ac7a-4e02-b974-202a15a0ee79" alt="Landing Page" width=600>
+    <img src="https://github.com/user-attachments/assets/8e5739b9-8723-4c02-96e7-b5966ef5dc5d" alt="Music Embeds" width=600>
 </p>
 
 The project shown above can be found [here!](https://www.earthtonesmusic.us/) This is a website that I designed and created using Next.js & React and deployed using Vercel. I had a very specific image in mind for what my music website would look like, so I decided to create it by myself!
