@@ -2,7 +2,7 @@
 
 <p align="center" width="100%">
     <img src="https://github.com/user-attachments/assets/98e2c885-5034-4ceb-92fb-9a7112375a54" width=400> 
-    <p align="center" width="60%">
+    <p align="left" width="60%">
         I am a software engineer with 3 years of experience working in the health tech industry. By working at startups and small companies, I've had the opportunity to learn various languages and skills at a rigorous pace. Contact me and follow my journey using the links below!
     </p>
 </p>
