@@ -22,7 +22,7 @@
 ## Tech
 
 **Front End:** JavaScript, Typescript, React, Expo, Redux, Zustand, CSS, HTML5, Tailwind, Next.js <br />
-**Back End:** Node.js, SQL, MongoDB, AWS:EC2. AWS Lambda, AWS DocumentDB, AWS DynamoDB, AWS S3 <br />
+**Back End:** Node.js, SQL, MongoDB, AWS:EC2, AWS Lambda, AWS DocumentDB, AWS DynamoDB, AWS S3 <br />
 **Mobile:** React Native, Swift, XCode <br />
 **Testing:** Jest <br />
 **Developer Tools:** Git, Docker, Azure DevOps, Jira
